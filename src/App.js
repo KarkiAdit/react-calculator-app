@@ -12,7 +12,7 @@ function App() {
   }
 
   return (
-    <div classname="app-Content">
+    <div className="app-content">
       <div className="container">
         <div className="display">
           <span>(0)</span> 0
